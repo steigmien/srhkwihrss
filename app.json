@@ -1,0 +1,24 @@
+﻿{
+  "name": "srhkwihrss",
+  "description": "srhkwihrss",
+  "keywords": ["srhkwihrss"],
+  "env": {
+    "APP_SITE": {
+      "description": "",
+      "value": "YourAppName.herokuapp.com"
+    },
+
+    "PASSWORD": {
+      "description": "",
+      "value": "232349cc-58f6-4c02-83e2-c479e2f1b43"
+    },
+
+    "SECRET_PATH": {
+      "description": "",
+      "value": "7ae7cf-9b2d-4617-8615-397a8223ea234"
+    }
+  },
+  "website": "https://github.com/steigmien/srhkwihrss",
+  "repository": "https://github.com/steigmien/srhkwihrss",
+  "stack": "container"
+}
